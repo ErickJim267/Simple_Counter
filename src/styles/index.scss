@@ -1,5 +1,24 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.BCKGContainer{
+    text-align: center;
+    background-color: #f71111;
+}
+
+.BCKGContainer div{
+    display: inline-block;
+    font-size: 90px;
+    line-height: 90px ;
+    background-color: #641010;
+    color: white;
+    padding: 10px ;
+    margin: 5px;
+}
+.MiTitle{
+    font-size: 100px;
+    color: grey;
+}
+
 /* 
 
     You can write your own styles here...
